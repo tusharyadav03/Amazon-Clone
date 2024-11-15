@@ -1,6 +1,6 @@
-# amazon_clone
+# Amazon Clone
 
-A new Flutter project.
+All Flutter will be written here after this project is complete.
 
 ## Getting Started
 
